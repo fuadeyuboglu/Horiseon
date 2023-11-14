@@ -18,6 +18,8 @@ In this repository, I refactored the source code in order the website meets acce
 
 [Live site link](https://fuadeyuboglu.github.io/Horiseon/)
 
+![Horiseon](assets/images/screenshot.png)
+
 ## Contribution
 
 I used [metatags.io](https://metatags.io/) to create meta tags.
