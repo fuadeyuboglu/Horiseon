@@ -1,2 +1,1 @@
 # Horiseon
-Social solution services.
