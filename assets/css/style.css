@@ -195,3 +195,8 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+
+/* Cancel the effect of the small element on font size */
+.footer p small {
+    font-size: inherit;
+}
